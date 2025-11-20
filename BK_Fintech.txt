@@ -1,0 +1,106 @@
+Company Name: BharathReddy FinTech Solutions Pvt. Ltd.
+Established: 2022
+Headquarters: Hyderabad, India
+Founder: Madireddy Bharath Kumar Reddy
+
+⭐ About the Company
+
+BharathReddy FinTech Solutions is a next-generation financial technology company focused on building secure, intelligent, and customer-centric digital finance products. The company blends AI, data engineering, and financial domain expertise to simplify banking, payments, and credit experiences for both individuals and enterprises.
+
+The company specializes in designing scalable fintech platforms that offer personalized insights, automated decision-making, and seamless digital onboarding.
+
+🧩 Mission Statement
+
+“To make finance smart, fast, and accessible for everyone through AI-driven automation and transparent digital services.”
+
+🌍 Vision
+
+BharathReddy FinTech aims to become India’s leading AI-first fintech company, enabling real-time financial decision-making and empowering customers with intelligent tools for credit, savings, and investments.
+
+💼 Core Services
+1. AI-powered Credit Scoring
+
+The company provides instant creditworthiness evaluation using alternative data such as transaction patterns, banking behavior, and digital footprint.
+Their credit scoring system reduces loan approval time from 48 hours to under 5 minutes.
+
+2. Digital Payments Platform
+
+A secure, UPI-compliant payment layer enabling:
+
+P2P transfers
+
+Merchant payments
+
+Automated payouts
+
+Subscription billing
+
+The system is designed with fraud-detection AI and end-to-end encryption.
+
+3. Robo-Advisory & Wealth Automation
+
+The robo-advisory engine offers:
+
+AI-powered investment recommendations
+
+Portfolio rebalancing
+
+Tax-saving planning
+
+Risk-based investment suggestions
+
+4. Lending-as-a-Service (LaaS)
+
+Banks and NBFCs integrate BharathReddy FinTech APIs to automate:
+
+KYC verification
+
+Loan processing
+
+Risk scoring
+
+EMI calculations
+
+⚙️ Technology Stack
+
+Backend: Python, FastAPI, Node.js
+
+Databases: PostgreSQL, MongoDB
+
+Analytics: Apache Spark, BigQuery
+
+AI/ML: TensorFlow, LangChain, Vertex AI
+
+Security: AES-256 encryption, OAuth2, JWT
+
+🧠 AI Innovations
+
+SmartFraud Shield – Detects suspicious transactions in real time using anomaly detection.
+
+FinGPT Chat Engine – A financial chatbot that explains EMI, spends, investments.
+
+AutoKYC Vision – OCR + face-verification for instant onboarding.
+
+👥 Target Customers
+
+Digital Banks
+
+NBFCs
+
+Lending Startups
+
+Investment Platforms
+
+Payment Gateways
+
+End Consumers (via mobile app)
+
+📈 Achievements
+
+3 lakh+ active users
+
+Reduced fraud activity by 27% across partners
+
+100+ financial institutions integrated
+
+Awarded “Emerging FinTech Innovator – 2024”
