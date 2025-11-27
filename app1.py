@@ -19,8 +19,9 @@ st.set_page_config(page_title="RAG Chatbot", layout="wide")
 # LOAD API KEY
 # -------------------------
 load_dotenv()
-os.environ["GOOGLE_API_KEY"] = os.getenv("GOOGLE_API_KEY")
-
+#os.environ["GOOGLE_API_KEY"] = os.getenv("GOOGLE_API_KEY")
+GOOGLE_API_KEY = st.secrets["google"]["api_key"]
+os.environ["GOOGLE_API_KEY"] = GOOGLE_API_KEY
 # -------------------------
 # SESSION STATE INIT
 # -------------------------
@@ -146,3 +147,4 @@ Answer:
 
         # Save assistant reply
         st.session_state.messages.append({"role": "assistant", "content": answer})
+
