@@ -15,7 +15,9 @@ warnings.filterwarnings("ignore")
 st.set_page_config(page_title="Fast RAG Chatbot", layout="wide")
 
 load_dotenv()
-os.environ["GOOGLE_API_KEY"] = os.getenv("GOOGLE_API_KEY")
+#os.environ["GOOGLE_API_KEY"] = os.getenv("GOOGLE_API_KEY")
+GOOGLE_API_KEY = st.secrets["google"]["api_key"]
+os.environ["GOOGLE_API_KEY"] = GOOGLE_API_KEY
 
 
 # -----------------------------
@@ -111,3 +113,4 @@ Answer:
 
 else:
     st.info("Upload documents to begin.")
+
